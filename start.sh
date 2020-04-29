@@ -1,3 +1,4 @@
+#!/bin/bash
 # 拉取代码
 git pull
 # 安装依赖和打包
